@@ -1,7 +1,7 @@
 # Uso de Azure Advisor
 En este repositorio tenemos una demostración del uso de Azure Advisor, como activarlo, y para que nos puede servir.
 
-![Microsoft-Azure-Advisor](https://github.com/DagonNR/Azure-Monitor/blob/main/images/Microsoft-Azure-Monitor.png)
+![Microsoft-Azure-Advisor]()
 
 ---
 
