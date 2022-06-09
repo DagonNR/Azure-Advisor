@@ -1,7 +1,7 @@
 # Uso de Azure Advisor
 En este repositorio tenemos una demostración del uso de Azure Advisor, como activarlo, y para que nos puede servir.
 
-![Microsoft-Azure-Advisor]()
+![Microsoft-Azure-Advisor](https://gpractical.files.wordpress.com/2021/05/index.jpg)
 
 ---
 
